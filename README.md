@@ -10,8 +10,12 @@ Finally, use an environment variable named PORT for the port number if one is pr
 
 i.e. The command below should start a server on the port 1337.
 
+```
 PORT=1337 node express-hello-world.js
+```
 
 and the command below should start a server on the port 8080.
 
+```
 node express-hello-world.js
+```
